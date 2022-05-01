@@ -5,9 +5,9 @@ spring:
       schema: "master"
       maximum-pool-size: 10
     driver-class-name: org.postgresql.Driver
-    password: "root"
-    username: "root"
-    url: "jdbc:postgresql://localhost:5432/test_db?currentSchema=master"
+    password: "e6f9b1150d29028d2890beb88aba4fd5abcaabd8b88f4b7435360c8945488a70"
+    username: "lkzibopbcvyfpz"
+    url: "jdbc:postgresql://ec2-176-34-211-0.eu-west-1.compute.amazonaws.com:5432/dd51qbb88m6u0h?currentSchema=master"
   jpa:
     hibernate:
       ddl-auto: validate
